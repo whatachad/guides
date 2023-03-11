@@ -11,7 +11,7 @@
 for FE/BE
 인프런에서 맛집지도 만들기라는걸 발견하게 되었는데, 저희 플젝에서 운동시설 등록과 비스무리한거 같아서 참고하면 좋을거 같아서 공유해드립니다.
 https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5-%ED%92%80%EC%8A%A4%ED%83%9D-%EB%A7%9B%EC%A7%91%EC%A7%80%EB%8F%84#curriculum
-
+https://github.com/mmvv11/food-map-dist-example
 
 for FE
 Next.js 시작하기(feat. 지도 서비스 개발) - Lighthouse로 웹 성능 검사 및 웹 접근성, SEO 개선
